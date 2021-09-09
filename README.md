@@ -3,7 +3,7 @@ Planilha feita em Python com Módulo Openpyxl para o Teste da Liga Financeira
 
 Importante installar o módulo Openpyxl antes de rodar a planilha
 
-Importante manter a planilha na mesma página do código
+Importante manter a planilha na mesma página do código /l
 Arquivo planilha.py
 #pip install openpyxl 
 

@@ -8,6 +8,6 @@ Importante manter a planilha na mesma página do código
 #pip install openpyxl 
 
 
-Link da Planilha rodada para o google : 
+Link da Planilha rodada no google : 
 
 https://docs.google.com/spreadsheets/d/1JPNW34hx_p4RykuMZxk2SuZ_w7mwADhn8DSMxO0sJ9s/edit?usp=sharing
